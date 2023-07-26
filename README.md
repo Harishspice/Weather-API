@@ -41,8 +41,9 @@ python manage.py runserver
 
 
 ## Site Images(minimal)
-![Screenshot 2023-07-26 183809](https://github.com/Harishspice/Weather-API/assets/117935868/2d985ff9-2478-45ae-969c-bc29f835622b)
-![image](https://github.com/Harishspice/Weather-Forecasting-Site/assets/117935868/91797247-dbfb-4567-be19-86cc3f51a93d)
+![image](https://github.com/Harishspice/Weather-Forecasting-Site/assets/117935868/21a37e8e-fb3c-4c9f-a3be-77cebfe81974)
+![image](https://github.com/Harishspice/Weather-Forecasting-Site/assets/117935868/1b5a3925-9ba8-417b-b641-2953fb482149)
+![image](https://github.com/Harishspice/Weather-Forecasting-Site/assets/117935868/81ba5cd9-c938-4d9c-a588-39a373de7b66)
 
 
 ## Technologies Used
