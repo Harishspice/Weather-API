@@ -50,7 +50,9 @@ python manage.py runserver
 
 - Django Framework
 - Open Weather API
-- HTML, CSS, JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Contributing
 
