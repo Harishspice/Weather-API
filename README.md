@@ -62,3 +62,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Contact
+
+If you have any questions, suggestions, or feedback, please feel free to reach out to our team at [contact@avertapp.com](mailto:laakshitd@gmail.com).
+
+
